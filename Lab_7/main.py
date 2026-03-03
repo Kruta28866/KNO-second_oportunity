@@ -168,3 +168,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+    # python main.py --history data.csv --result predictions.csv --n 20 --lookback 60 --epochs 50 --plots
+    # python main.py --history .\data.csv --result predictions.csv --n 20

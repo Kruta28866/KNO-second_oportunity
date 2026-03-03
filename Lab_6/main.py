@@ -422,4 +422,4 @@ if __name__ == "__main__":
     main()
 
 
-#vae mnist python vae_mnist_128.py --epochs 20 --latent-dim 2 --image-size 128 --batch-size 128 --lr 2e-4 --beta 1e-3 --n-gen 64 --out-dir ./example_gen --show
+#vae mnist python main.py --epochs 20 --latent-dim 2 --image-size 128 --batch-size 128 --lr 2e-4 --beta 1e-3 --n-gen 64 --out-dir ./example_gen --show
